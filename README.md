@@ -1,4 +1,4 @@
-# GenAI--Website_Url_Content_Summarization
+# GenAI--Website Url Content Summarization
 
 This tool allows users to input a URL—be it a YouTube video or a website—and receive a concise summary of its content. Leveraging the capabilities of LangChain and Groq, this application provides efficient and accurate summaries to enhance your content consumption experience.
 
